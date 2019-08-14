@@ -1,5 +1,5 @@
 #### Monsters Rolodex
-A simple react app that makes fetch calls to propogate a list of randomly generated users and monster images
+A simple react app that makes fetch calls to propagate a list of randomly generated users and monster images
 
 see it deployed at: lucid-curran-70d9a3.netlify.com
 
